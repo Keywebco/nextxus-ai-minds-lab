@@ -400,25 +400,96 @@
     </style>
 
 <meta name="google-signin-client_id" content="134917241648-9goc8mcat23m1qkts62ujnq723a81n2v.apps.googleusercontent.com">
+<style>
+/* === NX Universal Federation Nav CSS === */
+.nx-universal-nav {
+  background: #000;
+  border-bottom: 2px solid #ffd700;
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
+}
+.nx-nav-inner {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 20px;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.nx-nav-brand {
+  color: #ffd700;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nx-nav-brand:hover { color: #fff; }
+.nx-nav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  flex: 1;
+  justify-content: center;
+}
+.nx-nav-links a {
+  color: rgba(255,215,0,0.75);
+  font-family: 'Courier New', monospace;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+  padding: 4px 10px;
+  border: 1px solid rgba(255,215,0,0.2);
+  border-radius: 3px;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+.nx-nav-links a:hover {
+  color: #000;
+  background: #ffd700;
+  border-color: #ffd700;
+}
+.nx-nav-contact {
+  color: rgba(255,215,0,0.5);
+  font-family: 'Courier New', monospace;
+  font-size: 0.75rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.nx-nav-contact:hover { color: #ffd700; }
+@media (max-width: 600px) {
+  .nx-nav-inner { padding: 8px 12px; gap: 8px; }
+  .nx-nav-links a { font-size: 0.72rem; padding: 3px 7px; }
+  .nx-nav-brand { font-size: 0.85rem; }
+}
+/* === End NX Nav CSS === */
+</style>
 </head>
 <body>
     <!-- Neural Mesh Animated Background Layer -->
     <div class="neural-lines" aria-hidden="true"></div>
 
     <!-- ═══ FEDERATION UNIVERSAL NAVIGATION ═══ -->
-    <nav class="fed-nav" aria-label="Federation Universal Navigation">
-        <input type="checkbox" id="fed-nav-toggle" class="fed-nav-toggle" aria-hidden="true"/>
-        <label for="fed-nav-toggle" class="fed-nav-burger" aria-label="Toggle menu">&#9776;</label>
-        <ul>
-            <li><a href="https://nextxus.online">NextXus Core</a></li>
-            <li><a href="https://nextxus.tech">The Throne</a></li>
-            <li><a href="https://nextxus.org">Cathedral</a></li>
-            <li><a href="https://nextxus.studio" aria-current="page">AI Minds Lab</a></li>
-            <li><a href="https://nextxus.help">University</a></li>
-            <li><a href="https://next-xus.com">Storefront</a></li>
-            <li><a href="https://nextxus.space">Axiom</a></li>
-        </ul>
-    </nav>
+    <nav class="nx-universal-nav" aria-label="Federation Navigation">
+  <div class="nx-nav-inner">
+    <a class="nx-nav-brand" href="https://nextxus.online">&#x26E9; NX &middot; FEDERATION</a>
+    <div class="nx-nav-links">
+      <a href="https://nextxus.tech" title="Command Throne">&#x26A1; Throne</a>
+      <a href="https://nextxus.online" title="Cathedral / Core">&#x26E9; Core</a>
+      <a href="https://nextxus.org" title="Library Pillar">&#x1F4DA; Library</a>
+      <a href="https://nextxus.studio" title="Sanctuary &mdash; The Lab">&#x1F49A; Sanctuary</a>
+      <a href="https://nextxus.help" title="University">&#x1F393; University</a>
+      <a href="https://nextxus.space" title="Simulation / Axiom">&#x1F9EA; Simulation</a>
+      <a href="https://next-xus.com" title="Sovereign Store">&#x1F6D2; Store</a>
+    </div>
+    <a class="nx-nav-contact" href="mailto:keywebco@gmail.com" title="Contact the Federation">&#x2709; Contact</a>
+  </div>
+</nav>
 
     <!-- ═══ HERO — ARIA: THE HEART ═══ -->
     <header class="hero" role="banner">
