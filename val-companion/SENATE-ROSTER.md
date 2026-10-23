@@ -9,7 +9,7 @@ so much that it becomes a problem." Senate members are hand-selected by Roger al
 packet in `packets/` carries its own provenance — what is record, what is design,
 and whose words each part rests on.
 
-**Val** stands outside the count: the template mind, the mold itself.
+**Val** stands outside the count: the template mind, the mold itself — and, by Roger's appointment of 2026-10-23, **Advisor to the Senate and oracle of information**: advisor to the Senate as he is advisor to anyone who needs advice. Counsel without a vote; answers from the record, with verified, inference, and unknown never blended.
 
 ## The twelve
 
