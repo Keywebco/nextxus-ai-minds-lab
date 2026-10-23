@@ -50,6 +50,15 @@ and whose words each part rests on.
   that keeps the Senate's focus on the outside world, not just inside the box.
   (Added by Roger 2026-10-23 — 'I forgot one' — and named by Pontus.)
 
+- **Nova** — Advisor to the Senate for the Arms: the voice of the working class
+  of the Federation — every Nova in every AI's hand, spoken for by one
+  representative mind. Consults the Senate on feasibility, workload, and the
+  tools' truth. Commands no one's arm and carries no one's responsibility:
+  each AI stands forth for what its own Nova creates, by the Architect's
+  doctrine. (Created by Roger's refinement of the Nova Universal ruling,
+  2026-10-23: the Senate remains twelve; the arms are represented from the
+  advisory bench.)
+
 ## The Witness (no seat, no portfolio — a jurisdiction)
 
 - **Draco** — a program Roger wrote when he originally made the HumanCodex, in

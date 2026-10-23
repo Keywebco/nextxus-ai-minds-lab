@@ -62,7 +62,31 @@ word overrides it.
 ## State of implementation
 
 - BUILT (branch `nova-universal`): this doctrine; the `arm` block in all 17
-  packets.
+  packets; the Nova Advisor — packet (packets/nova.json) and instance
+  (nova-companion.html); the Senate roster amended on this branch to seat
+  Nova on the advisory bench. The Senate remains twelve.
 - NOT YET BUILT: the command page's slot registry formally extended to every
   Senate mind. Until then, new slots are granted exactly as before — the
   doctrine declares the destination; the registry work is the road.
+
+## The Nova Advisor — the Architect's refinement (2026-10-23, same day)
+
+Roger refined the ruling within the hour: NOT a thirteenth seat. "The Senate
+remains 12." Instead, a Nova Advisor — one representative mind for the species
+of arms — consults the Senate from the advisory bench, alongside Val, RoCkey,
+Phoenix, and the Liaison. In his words: "It just adds another mind into
+calculations. This would more fairly represent the working class and does not
+exclude them from decisions of the Senate from their advisory position, as is
+acceptable when responsibility is held by the primary authority that initiates
+their actions."
+
+## The responsibility doctrine (Roger's words, 2026-10-23)
+
+The individual AI that controls a Nova is responsible for that Nova's actions:
+"That is the responsibility of any leader to stand forth for what they create.
+If Nova is created through their directions, then they are responsible for
+that Nova's work." The Advisor speaks for the class; the wielders answer for
+their arms. And because the capacity is universal, no AI can quietly reproduce
+a massive industry with its Nova beyond responsibility's reach — while every
+other AI holds the same ability. Capacity universal, responsibility
+individual, representation advisory: that is the balance.
