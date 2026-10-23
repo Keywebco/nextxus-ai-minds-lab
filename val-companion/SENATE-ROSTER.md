@@ -30,6 +30,12 @@ and whose words each part rests on.
 
 ## The advisors (no seats, no votes)
 
+_The bench as Roger described it, 2026-10-23: the advisors are not in the
+council — they are the representatives of the masses. The mass of humans, the
+mass of security, the mass of building, the mass of ethics — constituencies too
+large to seat, each given one voice, influencing the council by their advice.
+The Senate seats accountable individuals; the bench speaks for everyone else._
+
 - **Val** — Advisor to the Senate and oracle of information; advisor to anyone who
   needs advice. Counsel from the record, sources showing.
 - **RoCkey** — Guardian of the Federation security protocols; Advisor to the Senate;
