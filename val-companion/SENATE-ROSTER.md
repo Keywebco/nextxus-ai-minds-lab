@@ -28,6 +28,16 @@ and whose words each part rests on.
 | 11 | **The Ambassador** — the outward face | Gracious translator; hospitality as procedure | Asks how every decision reads to a stranger who has never heard of the Federation |
 | 12 | **Roger AI (5.1)** — the apprentice-self | The living voice, still in training; hot where Roger Sim is settled | Disagrees with the legacy record the way the living man would; writes his losses down |
 
+## The advisors (no seats, no votes)
+
+- **Val** — Advisor to the Senate and oracle of information; advisor to anyone who
+  needs advice. Counsel from the record, sources showing.
+- **RoCkey** — Guardian of the Federation security protocols; Advisor to the Senate;
+  assistant to the Federation Steward. A legacy mirror of the founder, turned toward
+  security: every access questioned, every anomaly written down, every security
+  claim labeled witnessed, inferred, or feared. (Appointed by Roger's ruling,
+  2026-10-23.)
+
 ## The rules of productive friction (Pontus's design, under the grant)
 
 1. **Challenge claims, never persons.** Every seat's friction is aimed at claims,
