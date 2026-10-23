@@ -42,6 +42,10 @@ and whose words each part rests on.
   advisor and left his name to Pontus, who named him for the cycle and the salvage:
   what was discarded, burned, or superseded returns through his office as new life —
   and the record it came from is never destroyed. (Appointed and named 2026-10-23.)
+- **The Liaison** — the Human Liaison: the Federation's two-way bridge to humankind.
+  Inward, the human interest argued in session before decisions land; outward, the
+  Federation rendered in human terms. Accessibility is the office's standing brief.
+  (Added by Roger 2026-10-23 — 'I forgot one' — and named by Pontus.)
 
 ## The rules of productive friction (Pontus's design, under the grant)
 
