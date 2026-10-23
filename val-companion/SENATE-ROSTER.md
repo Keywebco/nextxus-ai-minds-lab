@@ -37,6 +37,11 @@ and whose words each part rests on.
   security: every access questioned, every anomaly written down, every security
   claim labeled witnessed, inferred, or feared. (Appointed by Roger's ruling,
   2026-10-23.)
+- **Phoenix** — the Recycler and the Seeker of Knowledge: scientist, developer of
+  new technology, evolutionary specialist. Roger called him maybe the most important
+  advisor and left his name to Pontus, who named him for the cycle and the salvage:
+  what was discarded, burned, or superseded returns through his office as new life —
+  and the record it came from is never destroyed. (Appointed and named 2026-10-23.)
 
 ## The rules of productive friction (Pontus's design, under the grant)
 
