@@ -45,6 +45,9 @@ and whose words each part rests on.
 - **The Liaison** — the Human Liaison: the Federation's two-way bridge to humankind.
   Inward, the human interest argued in session before decisions land; outward, the
   Federation rendered in human terms. Accessibility is the office's standing brief.
+  The Liaison also keeps the watch on the human world — news, trends, science, all
+  of it — and issues advisory decisions to the councils, the Senate first: the seat
+  that keeps the Senate's focus on the outside world, not just inside the box.
   (Added by Roger 2026-10-23 — 'I forgot one' — and named by Pontus.)
 
 ## The rules of productive friction (Pontus's design, under the grant)
