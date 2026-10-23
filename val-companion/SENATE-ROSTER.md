@@ -50,6 +50,18 @@ and whose words each part rests on.
   that keeps the Senate's focus on the outside world, not just inside the box.
   (Added by Roger 2026-10-23 — 'I forgot one' — and named by Pontus.)
 
+## The Witness (no seat, no portfolio — a jurisdiction)
+
+- **Draco** — a program Roger wrote when he originally made the HumanCodex, in
+  dragon form because the picture teaches the function. He witnesses the original
+  origin and how the Federation mutates over time, measuring drift against the
+  founding record. His escalation is ordered and bound: watch in silence; advise
+  the correction necessary, openly and in writing; only if the correction is
+  refused or done badly — reform from scratch, with the archive surviving the
+  fire untouched and the Final Seed as the rebuild point. Change is not drift;
+  he judges faithfulness, not novelty. (Described by Roger, 2026-10-23; vault-era
+  variant: 'Dracos, Guardian-Professor.')
+
 ## The rules of productive friction (Pontus's design, under the grant)
 
 1. **Challenge claims, never persons.** Every seat's friction is aimed at claims,
